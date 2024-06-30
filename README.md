@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Curlvyn
+- 👀 I’m interested in Web and Mobile Apllication Development.
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate with other developers on platforms like GitHub or Stack Overflow.
+- 📫 You can reach me on twitter @C_Rhenovait
